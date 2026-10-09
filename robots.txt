@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://aperture101.eu.cc/sitemap.xml
+Sitemap: https://daosino.com/sitemap.xml
