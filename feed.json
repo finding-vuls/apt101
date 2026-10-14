@@ -5,11 +5,26 @@
     "home_page_url": "https://daosino.com",
     "feed_url": "https://daosino.com/feed.json",
     "user_comment": "",
-    "icon": "https://daosino.com/media/website/Snipaste_2026-09-03_10-50-51-3.jpg",
     "author": {
         "name": "YYY123"
     },
     "items": [
+        {
+            "id": "https://daosino.com/shokz-openfit2-review.html",
+            "url": "https://daosino.com/shokz-openfit2-review.html",
+            "title": "SHOKZ OpenFit2 Review",
+            "summary": "I have had the OpenFit 2 for a while. It is my main headphone for the gym. The dual drivers and Dolby Audio sound great. The multi-function physical buttons are easy to use. I do not need to take out my phone during workouts. The&hellip;",
+            "content_html": "<p>I have had the OpenFit 2 for a while. It is my main headphone for the gym. The dual drivers and Dolby Audio sound great. The multi-function physical buttons are easy to use. I do not need to take out my phone during workouts.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://daosino.com/media/posts/12/Snipaste_2026-10-14_16-09-35.jpg\" alt=\"SHOKZ OpenFit2\" width=\"1240\" height=\"998\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-35-xs.jpg 640w ,https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-35-sm.jpg 768w ,https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-35-md.jpg 1024w ,https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-35-lg.jpg 1366w ,https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-35-xl.jpg 1600w ,https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-35-2xl.jpg 1920w\"></figure><br><br>What really surprised me is its AI recording feature. Shokz did not hide the recording deep in the App. It directly rebuilt the control logic. When wearing the headphones, press the headphone button to start recording. In an offline meeting, wearing headphones to record might look impolite. You put the headphones back into the charging case. Long press the case button to start \"closed-case recording\". This design understands real situations.<br><br>I recorded a 1 minute and 54 second live event with it and a professional voice recorder at the same time.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://daosino.com/media/posts/12/Snipaste_2026-10-14_16-09-56.jpg\" alt=\"SHOKZ OpenFit2\" width=\"1379\" height=\"954\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-56-xs.jpg 640w ,https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-56-sm.jpg 768w ,https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-56-md.jpg 1024w ,https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-56-lg.jpg 1366w ,https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-56-xl.jpg 1600w ,https://daosino.com/media/posts/12/responsive/Snipaste_2026-10-14_16-09-56-2xl.jpg 1920w\"></figure>\n<p>The OpenFit 2 AI file is only 666KB. The voice recorder file size is 121MB. In terms of loudness, OpenFit 2 AI is 4.6dB higher than the voice recorder. The background noise is 7dB lower. The vocals are more forward and cleaner. The 2-4KHz vocal range has a 3.8dB boost. Consonants and pronunciation are clearer. The 4-8KHz high frequencies are \"brighter\". This is friendly for large models to recognize words. The voice recorder has more peak headroom. It does not easily clip when sudden loud sounds happen. Overall, OpenFit 2 AI provides more complete vocal clarity and speech details.<br><br>In the tech English test, OpenFit 2 AI's English CER is 12.03%. This is clearly better than the 15.55% in a pure English setting. Words like HBM, GPU, data center, power grid, and processor are recognized steadily. The key term hit rate is 89.5%. NVIDIA B200 was split apart. Gaming GPUs was mistaken for gaming GPS. It is good enough for daily use. It can still make mistakes with specific product models and abbreviations.<br><br>Overall, OpenFit 2 works well as a sports headphone. The AI recording adds practical value for meetings and recording ideas. It is not perfect. It truly saves me from carrying a separate voice recorder.</p>",
+            "author": {
+                "name": "Charlotte"
+            },
+            "tags": [
+                   "Technology",
+                   "Electronics"
+            ],
+            "date_published": "2026-10-14T16:12:11+08:00",
+            "date_modified": "2026-10-14T16:12:26+08:00"
+        },
         {
             "id": "https://daosino.com/vivo-x300.html",
             "url": "https://daosino.com/vivo-x300.html",
@@ -147,23 +162,6 @@
             ],
             "date_published": "2026-09-02T09:47:50+08:00",
             "date_modified": "2026-09-04T11:45:18+08:00"
-        },
-        {
-            "id": "https://daosino.com/about.html",
-            "url": "https://daosino.com/about.html",
-            "title": "About Garmin Fenix 9",
-            "summary": "Upgrades to Look Forward To 1. New Elevate 6 Optical Heart Rate Sensor Garmin hasn't updated its optical heart rate sensor in a long time. The Elevate 6 is said to improve accuracy. It may also bring new health features like sweat/pressure monitoring and background&hellip;",
-            "content_html": "\n  <p>\n    <strong>Upgrades to Look Forward To\n<br></strong>\n<br>1. New Elevate 6 Optical Heart Rate Sensor\n<br>\n<br>Garmin hasn't updated its optical heart rate sensor in a long time. The Elevate 6 is said to improve accuracy. It may also bring new health features like sweat/pressure monitoring and background irregular heartbeat detection.\n<br>\n  </p>\n\n  <p>\n    2. 5G Redcap + Satellite Messaging<br><br>The Fenix 8 Pro already has LTE and satellite features. But they made the watch thicker and shortened battery life. The Fenix 9 will focus on making these technologies better – thinner, more power-efficient, and more stable. Also, 5G Redcap (a lighter version of 5G) might appear on a watch for the first time.\n  </p>\n\n  <p>\n    3. A More Mature MicroLED Screen\n<br>\n<br>The MicroLED version of the Fenix 8 Pro was impressive, but Garmin admitted it also made the watch thicker and drained the battery faster. The Fenix 9 may bring a second-generation MicroLED that actually delivers on the promise of saving power. I used a Fenix 8 Pro for two days back in October 2025, and I wasn't that impressed. It didn't feel like a big upgrade – it just seemed to use more battery.\n<br>\n<br>4. A Stronger Processor\n<br>\n<br>The Fenix series has used the same processor platform for three generations now (the frx55 Fenix 7 in 2022, the fr65 and Fenix 7P in 2023, the Fenix 8 in 2024, and the fr70 in 2025). It's very likely that the Fenix 9 will get a new chip. Hopefully, that means smoother UI response and better energy efficiency. This could be the biggest highlight of the upgrade.\n<br>\n<br>\n<br>5. 43mm Size Gets Premium Features\n<br>\n<br>On the Fenix 8 Pro, the LTE and satellite features didn't come to the smaller 43mm version. The Fenix 9 might finally give small-wrist users all the flagship functions too.\n<br>\n\n  </p>\n\n  <p>\n    <strong>What Users Really Want\n<br></strong>\n<br>Looking around online, Fenix users actually have pretty simple wishes:\n<br>\n<br>- Thinner body (the Fenix 8 Pro is really too thick)\n<br>- Bigger screen-to-body ratio\n<br>- Fewer bugs (you know what I mean)\n<br>- Smarter health and GPS tools\n<br>\n\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://daosino.com/media/posts/1/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r.png\" height=\"954\" width=\"1032\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://daosino.com/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-xs.png 640w ,https://daosino.com/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-sm.png 768w ,https://daosino.com/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-md.png 1024w ,https://daosino.com/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-lg.png 1366w ,https://daosino.com/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-xl.png 1600w ,https://daosino.com/media/posts/1/responsive/v2-fdaf738aead8a0b7d5ff93d4eeaf466c_r-2xl.png 1920w\">\n      \n    </figure>\n\n  <p>\n    Most users don't need Garmin to do anything crazy. They just want the company to fix what needs fixing and optimize what needs optimizing.\n  </p>\n\n  <p>\n    <strong>Local price China: $1276</strong>\n  </p>",
-            "image": "https://daosino.com/media/posts/1/v2-99722dd7752d389c1b839e067ba05f3b_r.png",
-            "author": {
-                "name": "Liam"
-            },
-            "tags": [
-                   "ports &amp; Outdoors",
-                   "Electronics"
-            ],
-            "date_published": "2026-07-31T17:16:43+08:00",
-            "date_modified": "2026-09-03T19:58:25+08:00"
         }
     ]
 }
